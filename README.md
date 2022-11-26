@@ -19,7 +19,7 @@ Once that is done the user will be linked to that socket connection and all even
 Node v16 or higher is required.
 
 ```bash
-git clone advplyr/abs-socket-client-demo
+git clone https://github.com/advplyr/abs-socket-client-demo.git
 cd abs-socket-client-demo
 npm install
 ```
