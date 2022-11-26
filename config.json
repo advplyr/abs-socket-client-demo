@@ -1,0 +1,7 @@
+{
+  "protocol": "http",
+  "hostname": "localhost",
+  "port": 3333,
+  "username": "root",
+  "password": ""
+}
