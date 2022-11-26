@@ -45,3 +45,7 @@ To run the demo make sure you are in the `abs-socket-client-demo` folder then..
 ```bash
 npm run start
 ```
+
+If you leave this running and login to the same user in a browser then you will see in the console all the events being sent for that user.
+
+To test this you can update a library item in the browser and you should see an `item_updated` event in the console with the full library item object.
